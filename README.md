@@ -1,5 +1,6 @@
 
-<img width="1180" height="643" alt="diagram" src="https://github.com/user-attachments/assets/67e55c32-ea01-4c2a-a6aa-fb0b6b39a0f5" />
+<img width=![Uploading IMG_4081.jpeg…]()
+"1180" height="643" alt="diagram" src="https://github.com/user-attachments/assets/67e55c32-ea01-4c2a-a6aa-fb0b6b39a0f5" />
 
 # Blinky Project for TB-S3A3
 
