@@ -11,6 +11,16 @@ This project demonstrates a basic LED control using the **Renesas TB-S3A3** boar
 It uses **threads0** to send a signal every **3 seconds**.  
 The LED stays **ON** at all times, and when the signal is sent, it briefly turns **OFF** and then back **ON**.
 
+## Thread Configuration
+- LED Control Thread 1-10
+- Button Input Thread
+- Messege Transmission Thread
+- Messege Transmission Thread2
+- Interrrupt Handlig Thread
+- Watchdog Monitoring Thread
+- SeialCommunication Thread
+
+
 ## Development Environment
 - **Board:** Renesas TB-S3A3
 - **Sub Board:** Renesas PK-S5D9
