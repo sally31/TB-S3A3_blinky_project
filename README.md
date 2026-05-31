@@ -23,9 +23,9 @@ I made this project to learn and demonstrate RTOS concepts such as task scheduli
 
 ## Thread Description
 - **LED Control Thread 1-10**
-- Independently control the ON/OFF state of each LED.
-- When the event flag is set, LEDs 1-10 blink sequentially.
-- Each LED turns on for 1 second, off for 30ms, then triggers the next LED via an event flag.
+  - Independently control the ON/OFF state of each LED.
+  - When the event flag is set, LEDs 1-10 blink sequentially.
+  - Each LED turns on for 1 second, off for 30ms, then triggers the next LED via an event flag.
   
 - **Button Input Thread**
   - The button input is evaluated based on press duration.
@@ -51,7 +51,7 @@ I made this project to learn and demonstrate RTOS concepts such as task scheduli
   - Refreshes the watchdog timer only when all threads are operating normally.
   - If any thread fails to respond, the watchdog timer times out and the system is reset.
     
-- **Seia lCommunication Thread**
+- **Seial Communication Thread**
   - Implements UART communication using mutex and semaphore control.
   - Mutex protects shared access for character and numeric data receiving functions.
   - Semaphore is used to control transmission timing to Tera Term 5.
