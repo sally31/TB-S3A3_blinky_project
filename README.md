@@ -7,9 +7,10 @@
 # Blinky Project for TB-S3A3
 
 ## Overview
-This project demonstrates a basic LED control using the **Renesas TB-S3A3** board.  
-It uses **threads0** to send a signal every **3 seconds**.  
-The LED stays **ON** at all times, and when the signal is sent, it briefly turns **OFF** and then back **ON**.
+This project demonstrates a multi-threaded embedded application using ThreadX RTOS.
+A total of 16 threads are implemented to control LEDs, process button inputs, handle serial communication, manage interrupts, monitor the watchdog timer, and perform message transmission tasks.
+
+I made this project to learn and demonstrate RTOS concepts such as task scheduling, thread management, event handling, and peripheral control in an embedded system environment.
 
 ## Thread Configuration
 - LED Control Thread 1-10
