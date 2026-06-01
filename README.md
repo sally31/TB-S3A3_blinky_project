@@ -1,13 +1,11 @@
 
-
-
-
-https://github.com/user-attachments/assets/b9686ed6-812e-49c9-8ad5-d8d04812141b
-
-
 ![IMG_4081](https://github.com/user-attachments/assets/98cea8a1-c04d-40e2-a1be-492f0e9fd885)
 
 <img width="1180" height="643" alt="diagram" src="https://github.com/user-attachments/assets/a9851d84-312a-4a64-b1a0-32f0bf883d37" />
+
+https://github.com/user-attachments/assets/afe560ff-7553-4b6f-b921-8f97e99f1ca4
+
+https://github.com/user-attachments/assets/b9686ed6-812e-49c9-8ad5-d8d04812141b
 
 
 # Blinky Project for TB-S3A3
@@ -65,8 +63,8 @@ I made this project to learn and demonstrate RTOS concepts such as task scheduli
 
   
 ## Development Environment
-- **Board:** Renesas TB-S3A3
-- **Sub Board:** Renesas PK-S5D9
+- **Board:** Renesas Synergy TB-S3A3
+- **Sub Board:** Renesas Synergy PK-S5D9
 - **IDE:** e² studio  
 - **Framework:** Renesas FSP (RTOS-based)  
 - **Language:** C
